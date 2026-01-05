@@ -42,7 +42,7 @@
 - [playwright-go](https://github.com/playwright-community/playwright-go) - Playwright port for Golang.
 - [playwright-ruby-client](https://github.com/YusukeIwaki/playwright-ruby-client) - Playwright port for Ruby.
 - [playwright-cr](https://github.com/naqvis/playwright-cr) - Playwright port for Crystal.
-- [playwright-rust](https://github.com/octaltree/playwright-rust) - Playwright port for Rust.
+- [playwright-rust](https://github.com/padamson/playwright-rust) - Playwright port for Rust.
 - [playwright-perl](https://github.com/teodesian/playwright-perl) - Playwright port for Perl.
 
 ## Utils
