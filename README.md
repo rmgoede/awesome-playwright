@@ -65,6 +65,8 @@
 - [playwright-magic-steps](https://github.com/vitalets/playwright-magic-steps) - Auto-transform JavaScript comments into Playwright steps.
 - [playwright-network-cache](https://github.com/vitalets/playwright-network-cache) - Speed up Playwright tests by caching network requests on the filesystem.
 - [@global-cache/Playwright](https://github.com/vitalets/global-cache) - A key-value cache for sharing data between parallel workers and test runs.
+- [Playwright Manual-to-Test Generator](https://github.com/rmgoede/playwright-manual-to-test-generator-info) – Deterministic conversion of manual test steps into a single runnable Playwright TypeScript test (overview repo).
+
 
 ## Reporters
 
